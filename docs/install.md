@@ -1,8 +1,30 @@
-# ScratchPi下载安装  
+#  <center>软件安装</center>
 
----
+## 1、软件下载  
 
-## ScratchPi下载地址： [点击进入](http://www.bettertree.cn/content/download)
+  [点击进入官网下载](http://www.bettertree.cn)
+
+  点击菜单栏上的 <b>下载</b>, 进入如下界面
+
+  ![下载界面](/docs/img/install/install-1.png)
+
+  <br>
+
+  根据您使用的系统，下载`windows系统`或`MacOS系统`的<b>ScratchPi稳定版</b>
+
+  双击下载好的ScratchPi安装程序，按照以下步骤安装
+
+  &nbsp; <font color='red'>注意：如果您电脑上已安装360安全卫士，在软件安装过程中可能会出现软件被360误报为不安全程序的问题，请务必选择信任本软件，否则软件可能无法正常运行！</font>
 
 
-### windows下安装ScratchPi
+![选择语言](img/install/install-2.png)  
+<br>
+选择安装时所用的语言。  
+<br>
+![许可协议](img/install/install-3.png)
+
+- 请仔细阅读许可协议后，选择``我接受``， 并点击``下一步``。
+- 根据提示再次点击``下一步``。
+- 根据需要，选择安装位置后，点击``下一步``。
+- 再次点击``下一步``。
+- 点击``安装`` 等待进度条结束，直至安装完成后点击``完成``。
