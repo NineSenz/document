@@ -8,3 +8,4 @@
     * [计算机交互](docs/use/scratch.md)
 * [常见问题]()
   * [主控无法连接](docs/faq/zhukongwufalianjie.md)
+  * [直流电机无法转动](/docs/faq/dianjiwufazhuandong.md)
