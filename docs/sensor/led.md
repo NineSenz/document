@@ -20,8 +20,6 @@
 
 > 该模块用于熄灭LED灯
 
-</div>
-
 ### ``LED小案例``:
 
 ![](../img/sensor/LED灯/demo.png)
