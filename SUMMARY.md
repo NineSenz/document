@@ -10,7 +10,7 @@
   * [主控](docs/sensor/mpu.md)
   * [LED灯](docs/sensor/led.md)
   * [RGB全彩灯](docs/sensor/rgb.md)
-  * [2.4G无线模块](docs/sensor/mpu.md)
+  * [2.4G无线模块](docs/sensor/2.4GWireless.md)
   * [超声波](docs/sensor/mpu.md)
   * [触碰开关](docs/sensor/mpu.md)
   * [电容触摸开关](docs/sensor/mpu.md)
