@@ -7,7 +7,7 @@
 
 ### ``产品图片``：
   <div align="center">
-    <img src="../img/sensor/RGB全彩灯/RGBLamp.png" width="500px" ><br>
+    <img src="../img/sensor/RGBLamp/RGBLamp.png" width="500px" ><br>
   </div>
 
 ### ``功能模块``：
