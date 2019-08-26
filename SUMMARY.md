@@ -13,7 +13,7 @@
   * [2.4G无线模块](docs/sensor/2.4GWireless.md)
   * [超声波](docs/sensor/UItrasonic.md)
   * [触碰开关](docs/sensor/TouchSensor.md)
-  * [电容触摸开关](docs/sensor/mpu.md)
+  * [电容触摸开关](docs/sensor/Switch.md)
   * [反射光传感器](docs/sensor/mpu.md)
   * [光敏传感器](docs/sensor/mpu.md)
   * [红外避障传感器](docs/sensor/mpu.md)
