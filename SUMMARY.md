@@ -14,7 +14,7 @@
   * [超声波](docs/sensor/UItrasonic.md)
   * [触碰开关](docs/sensor/TouchSensor.md)
   * [电容触摸开关](docs/sensor/Switch.md)
-  * [反射光传感器](docs/sensor/mpu.md)
+  * [反射光传感器](docs/sensor/ReflectiveLight.md)
   * [光敏传感器](docs/sensor/mpu.md)
   * [红外避障传感器](docs/sensor/mpu.md)
   * [红外收发器](docs/sensor/mpu.md)
