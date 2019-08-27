@@ -12,7 +12,7 @@
 
 ### ``功能模块``：
 
-&nbsp;&nbsp;&nbsp;&nbsp;![](../img/sensor/RGB全彩灯/setRGBLamp.png)  
+&nbsp;&nbsp;&nbsp;&nbsp;![](../img/sensor/RGBLamp/setRGBLamp.png)  
 
 > 该模块用于设置各个灯的颜色、亮度  
 
