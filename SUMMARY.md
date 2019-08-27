@@ -16,7 +16,7 @@
   * [电容触摸开关](docs/sensor/Switch.md)
   * [反射光传感器](docs/sensor/ReflectiveLight.md)
   * [光敏传感器](docs/sensor/Light.md)
-  * [红外避障传感器](docs/sensor/mpu.md)
+  * [红外避障传感器](docs/sensor/IRDectector.md)
   * [红外收发器](docs/sensor/mpu.md)
   * [红外循迹传感器](docs/sensor/mpu.md)
   * [射频读卡器](docs/sensor/mpu.md)
