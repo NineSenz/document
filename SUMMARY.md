@@ -20,7 +20,7 @@
   * [红外收发器](docs/sensor/IRTransceiver.md)
   * [红外循迹传感器](docs/sensor/IRTrack.md)
   * [射频读卡器](docs/sensor/RFID.md)
-  * [声音传感器](docs/sensor/mpu.md)
+  * [声音传感器](docs/sensor/Sound.md)
   * [实时时钟](docs/sensor/mpu.md)
   * [四位按键](docs/sensor/mpu.md)
   * [四位数码管](docs/sensor/mpu.md)
