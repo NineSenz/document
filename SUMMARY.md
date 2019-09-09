@@ -24,7 +24,7 @@
   * [实时时钟](docs/sensor/Clock.md)
   * [四位数码管](docs/sensor/digitaltube.md)
   * [陀螺仪](docs/sensor/gyroscope.md)
-  * [温湿度传感器](docs/sensor/mpu.md)
+  * [温湿度传感器](docs/sensor/TemperatureHumidity.md)
   * [旋钮](docs/sensor/mpu.md)
   * [摇杆](docs/sensor/mpu.md)
   * [音乐蜂鸣器](docs/sensor/mpu.md)
