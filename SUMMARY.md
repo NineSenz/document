@@ -25,7 +25,7 @@
   * [四位数码管](docs/sensor/digitaltube.md)
   * [陀螺仪](docs/sensor/gyroscope.md)
   * [温湿度传感器](docs/sensor/TemperatureHumidity.md)
-  * [旋钮](docs/sensor/mpu.md)
+  * [旋钮](docs/sensor/knob.md)
   * [摇杆](docs/sensor/mpu.md)
   * [音乐蜂鸣器](docs/sensor/mpu.md)
   * [直流电机控制器](docs/sensor/mpu.md)
