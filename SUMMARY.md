@@ -21,7 +21,7 @@
   * [红外循迹传感器](docs/sensor/IRTrack.md)
   * [射频读卡器](docs/sensor/RFID.md)
   * [声音传感器](docs/sensor/Sound.md)
-  * [实时时钟](docs/sensor/mpu.md)
+  * [实时时钟](docs/sensor/Clock.md)
   * [四位按键](docs/sensor/mpu.md)
   * [四位数码管](docs/sensor/mpu.md)
   * [陀螺仪](docs/sensor/mpu.md)
